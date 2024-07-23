@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="山西黄河HD" tvg-name="山西黄河HD" group-title="mcast_6.txt", 山西黄河HD
 http://171.117.127.121:8083/rtp/226.0.2.235:9792
 #EXTINF:-1 tvg-id="山西经济与科技HD" tvg-name="山西经济与科技HD" group-title="mcast_6.txt", 山西经济与科技HD
